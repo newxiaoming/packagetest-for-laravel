@@ -1,0 +1,16 @@
+{
+    "name": "mypack/testpackages",
+    "description": "test",
+    "authors": [
+        {
+            "name": "rrr",
+            "email": "time@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aex\\Packagetest\\": "src/"
+        }
+    }
+}
